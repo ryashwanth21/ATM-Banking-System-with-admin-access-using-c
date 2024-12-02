@@ -1,0 +1,116 @@
+
+                                               Mon Dec 02 20:47:45 2024
+
+                        ******************WELCOME TO THE ATM*******************
+Please enter your pin: 3456
+Invalid pin!!!
+
+Please enter your pin: 9876
+
+                        *************Available Transactions************
+                1. Withdrawal
+                2. Deposit
+                3. Check Balance
+                4. Admin Access
+                5. Exit
+
+        Please select an option: 3
+
+                Your balance is Rs.3900.00
+
+                Do you wish to perform another transaction? Press 1[Yes], 0[No]: 1
+
+                        *************Available Transactions************
+                1. Withdrawal
+                2. Deposit
+                3. Check Balance
+                4. Admin Access
+                5. Exit
+
+        Please select an option: 1
+
+                Enter the amount to withdraw: 300
+
+                You have withdrawn Rs.300. Your new balance is Rs.3600.00
+
+                Do you wish to perform another transaction? Press 1[Yes], 0[No]: 1
+
+                        *************Available Transactions************
+                1. Withdrawal
+                2. Deposit
+                3. Check Balance
+                4. Admin Access
+                5. Exit
+
+        Please select an option: 2
+
+                Enter the amount to deposit: 500
+
+                You have deposited Rs.500. Your new balance is Rs.4100.00
+
+                Do you wish to perform another transaction? Press 1[Yes], 0[No]: 1
+
+                        *************Available Transactions************
+                1. Withdrawal
+                2. Deposit
+                3. Check Balance
+                4. Admin Access
+                5. Exit
+
+        Please select an option: 4
+
+                Enter Admin PIN: 1234
+
+Admin access granted.
+
+                Admin Menu
+                1. View all users
+                2. Modify user balance
+                3. Modify user PIN
+                4. Add a new user
+                5. Delete a user
+                6. Exit admin menu
+
+        Please select an option: 1
+
+                All Users:
+
+                Username        PIN     Balance
+
+                ryashwanth      3456    2003400.00
+                Admin Menu
+                1. View all users
+                2. Modify user balance
+                3. Modify user PIN
+                4. Add a new user
+                5. Delete a user
+                6. Exit admin menu
+
+        Please select an option: 3
+
+Enter username to modify PIN: 3242
+
+        User not found.
+
+                Admin Menu
+                1. View all users
+                2. Modify user balance
+                3. Modify user PIN
+                4. Add a new user
+                5. Delete a user
+                6. Exit admin menu
+
+        Please select an option: 6
+
+Exiting admin menu.
+
+                Do you wish to perform another transaction? Press 1[Yes], 0[No]: 1
+
+                        *************Available Transactions************
+                1. Withdrawal
+                2. Deposit
+                3. Check Balance
+                4. Admin Access
+                5. Exit
+
+        Please select an option: 5
