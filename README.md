@@ -1,7 +1,3 @@
-# ATM-Banking-System-with-admin-access-using-c
-Here’s an example of a `README.md` file for your ATM Banking System project. You can modify it as needed for your project:
-
----
 
 # ATM Banking System with Admin Access (C Project)
 
